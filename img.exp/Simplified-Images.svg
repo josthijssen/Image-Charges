@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   width="2022"
+   height="1501.1183"
+   xml:space="preserve"
+   sodipodi:docname="Simplified-Images.svg"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective10" /><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18"><path
+         d="m 0,1200 1617.602,0 0,-1200 L 0,0 0,1200 z"
+         id="path20" /></clipPath><inkscape:perspective
+       id="perspective2850"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" /></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1176"
+     inkscape:window-height="1113"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.44467435"
+     inkscape:cx="1185.0274"
+     inkscape:cy="723.20804"
+     inkscape:window-x="208"
+     inkscape:window-y="82"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g12" /><g
+     id="g12"
+     inkscape:groupmode="layer"
+     inkscape:label="Simplified-Images"
+     transform="matrix(1.25,0,0,-1.25,0,1501.1183)"><image
+       y="-1199.0902"
+       x="-2.8169131"
+       id="image2852"
+       height="1200"
+       width="1617.6"
+       xlink:href="file:///home/cjoverzijl/Desktop/TPP%20Experiments/img/Simplified-Images.png"
+       transform="scale(1,-1)" /></g><g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Text"><g
+   transform="matrix(1.25,0,0,-1.4980192,0,3352.9095)"
+   id="g26"><g
+   id="g28"
+   transform="matrix(1,0,0,-1,0,1200.8947)"><path
+     d="m 1422.27,-13.591343 73.847,0"
+     style="fill:none;stroke:#000000;stroke-width:3.8965795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path30" /></g><path
+   d="m 1444.582,1204.1623 -27.965,10.285 27.965,10.281 c -4.469,-6.07 -4.441,-14.379 0,-20.566 z"
+   style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+   id="path32" /><path
+   d="m 1473.801,1224.8103 27.965,-10.285 -27.965,-10.281 c 4.469,6.07 4.441,14.379 0,20.566 z"
+   style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+   id="path34" /><text
+   transform="scale(1,-1)"
+   id="text36"
+   x="1118.1534"
+   y="-1240.4164"><tspan
+     style="font-size:44.79999924px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+     sodipodi:role="line"
+     id="tspan40" /></text>
+
+
+</g><text
+   xml:space="preserve"
+   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+   x="1122.1696"
+   y="1552.8416"
+   id="text2883"><tspan
+     sodipodi:role="line"
+     id="tspan2885"
+     x="1122.1696"
+     y="1552.8416"
+     style="font-size:64px">Image-Plane Distance</tspan></text>
+
+</g></svg>
