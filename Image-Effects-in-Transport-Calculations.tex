@@ -268,15 +268,17 @@ our approach is essential for understanding the transport experiments.
 
 \section{Image charge effects for benzenediamine (BDA)} \label{Sec:BDA}
 
-There is evidence that metal-molecule-metal junctions, formed by Au point contacts, exhibit reproducible conductance values when amine groups rather than thiols or isonitriles are used to attach the molecules to the junction contacts \cite{Venkataraman2006}. The reason is that the amine-Au bonding motif besides being weak compared with thiols \cite{Hakkinen2012}, is also well-defined and flexible, so that measurements on transport properties are less affected by changes in local structure in the contacts \cite{Quek2007,Venkataraman2007}. Junctions with amine groups therefore allow for comparisons of calculated and measured transport properties.
+%There is evidence that metal-molecule-metal junctions, formed by Au point contacts, exhibit reproducible conductance values when amine groups rather than thiols or isonitriles are used to attach the molecules to the junction contacts \cite{Venkataraman2006}. The reason is that 
+The amine-Au bonding motif besides being weak compared with thiols or isonitriles \cite{Hakkinen2012}, is also well-defined and flexible, so that measurements on transport properties are less affected by changes in local structure in the contacts \cite{Venkataraman2006,Quek2007,Venkataraman2007}. Junctions with amine groups therefore allow for comparisons of calculated and measured transport properties.
 
-For isolated molecules, the electronic structure is described in terms of molecular orbitals. However, the concept of molecular orbitals is no longer strictly valid when we consider metal-molecule-metal junctions, as hybridization effects broaden the levels into resonances. One way of generalizing the orbital concept is to consider the projection of the Hamiltonian of the contacted system onto the subspace spanned by the basis functions of the molecule. The eigenstates of the projection are called transport orbitals, they can be viewed as molecular orbitals renormalized by the electrodes. For weakly coupled molecules, these can be related to the unrenormalized molecular orbitals, the amine-gold bond is an example we can work in detail.
+For isolated molecules, the electronic structure is described in terms of molecular orbitals. However, the concept of molecular orbitals is no longer strictly valid when we consider metal-molecule-metal junctions, as hybridization effects broaden the levels into resonances. One way of generalizing the orbital concept is to consider the projection of the Hamiltonian of the contacted system onto the subspace spanned by the basis functions of the molecule. The eigenstates of the projection, called transport orbitals, can be viewed as molecular orbitals renormalized by the electrodes. For weakly coupled molecules, these can be related to the unrenormalized molecular orbitals, the amine-gold bond is an example we can work in detail.
 
 
 
 %\subsection{BDA Electronic Structure}\label{BDA electronic_structure}
 
-We first consider the electronic structure of the 1-4 Benzenediamine molecule in gas phase and a Au-BDA-Au fragment, see Figs. \ref{BDA-gas-phase} and \ref{BDA-fragment}. For each of these we analyze the orbitals near the Fermi energy of the Au electrodes, which are expected to be most relevant for transport. The electronic structure for the gas phase and the fragment are shown in Figs. \ref{fg:BDA-gas} and \ref{fg:BDA-frag} respectively.
+We first consider %the electronic structure of 
+the 1-4 Benzenediamine molecule in gas phase and a Au-BDA-Au fragment, see Figs. \ref{BDA-gas-phase} and \ref{BDA-fragment}. For each of these we analyze the orbitals near the Fermi energy of the Au electrodes, which are expected to be most relevant for transport. The electronic structure for the gas phase and the fragment are shown in Figs. \ref{fg:BDA-gas} and \ref{fg:BDA-frag} respectively.
 
 \begin{figure}
 \subfloat[BDA Gas-Phase Geometry]{\includegraphics[width=.475\columnwidth]{img.exp/Fragment-geoms/BDA-fragment}\label{BDA-gas-phase}}\hfill
@@ -303,24 +305,30 @@ We first consider the electronic structure of the 1-4 Benzenediamine molecule in
 \caption{Orbitals of Au-BDA-Au Fragment ordered by decreasing energy.}\label{fg:BDA-frag}
 \end{figure}
 
-The main fragment orbitals are labeled by their correspondence with the BDA gas phase orbitals (\eg HOMO Fig. \ref{fg:BDA-frag-HOMO}, LUMO Fig. \ref{fg:BDA-frag-LUMO}, \textit{etc}). There are also intermediate orbitals (Fig. \ref{fg:BDA-frag-gapA} and Fig. \ref{fg:BDA-frag-gapB}), labeled as interface states, which have energies in the HOMO-LUMO gap and are present in the fragment but do not have an analog in the gas phase. The charge density of the interface states has strong contributions on the gold atoms. On the molecule, these states have the structure of the LUMO+1 (Interface state A) and HOMO (Interface state B).
+The main fragment orbitals are labeled by their correspondence with the %BDA 
+gas phase orbitals (\eg HOMO Fig. \ref{fg:BDA-frag-HOMO}, LUMO Fig. \ref{fg:BDA-frag-LUMO}, \textit{etc}). There are also intermediate orbitals (Fig. \ref{fg:BDA-frag-gapA} and Fig. \ref{fg:BDA-frag-gapB}), labeled as interface states, which have energies in the HOMO-LUMO gap and are present in the fragment but do not have an analog in the gas phase. The charge density of the interface states has strong contributions on the gold atoms. On the molecule, these states have the structure of the LUMO+1 (Interface state A) and HOMO (Interface state B).
 
 
 %\subsection{Transport through BDA} \label{Sec:TransportBDA}
 
-To analyze the transport through the molecule, we perform DFT-NEGF calculations for the Au-BDA-Au fragment attached to a FCC (111) surface. We consider a junction of type (I,I) according to the Quek \etal classification \cite{Quek2007} shown in Fig.~\ref{BDA-binding}. For our calculations we use a TZP-basis of numerical atomic orbitals on the molecule, a DZ-basis of numerical atomic orbitals on the metal atoms and the GGA PBE functional in our implementation of NEGF-based transport in the ADF/Band quantum chemistry package \cite{Velde1991,Wiesenekker1991,Verzijl2012}. Computational details can be found in Appendix \ref{computational_methods}. In Appendix \ref{LDA-vs-GGA} we compare the results obtained for BDA using the LDA and GGA functional.
+To analyze the transport through the molecule, we perform DFT-NEGF calculations for the Au-BDA-Au fragment attached to a FCC (111) surface. We consider a junction of type (I,I) according to the Quek \etal classification \cite{Quek2007} shown in Fig.~\ref{BDA-binding}. For our calculations we use a TZP-basis of numerical atomic orbitals on the molecule, a DZ-basis of numerical atomic orbitals on the metal atoms and the GGA PBE functional in our implementation of NEGF-based transport in the ADF/Band quantum chemistry package \cite{Velde1991,Wiesenekker1991,Verzijl2012}. Computational details can be found in Appendix \ref{computational_methods}. In Appendix \ref{LDA-vs-GGA} we compare the results obtained %for BDA 
+using the LDA and GGA functional.
 
-The \textit{reference} charge state of the molecule in the junction is calculated without any bias or gate field applied (see Appendix \ref{LDA-vs-GGA}). In this state, the net charge of the molecule is equal to $+0.268e$ with approximately $+0.095e$ on the amines and $+0.173e$ on the rest of the molecule. We perform two additional calculations with the gate field tuned such that the charge in the molecule is changed by $\pm e$. Fig. \ref{fg:gated_charges_BDA} shows the (Hirshfeld) projected charges of the whole molecule, the amine and the molecule excluding the amine.
+The \textit{reference} charge state of the molecule in the junction is calculated without any bias or gate field applied (see Appendix \ref{LDA-vs-GGA}). The net charge of the molecule is equal to $+0.268e$ with approximately $+0.095e$ on the amines and $+0.173e$ on the rest of the molecule. In this state, the molecule has already some extra charge due to partial charge transfer across the interface \cite{Thygesen2009} (see Fig.~\ref{fg:gated_charges_BDA}). We obtain the charge distributions for the reduced and the oxidized states by gating the levels near to $\epsilon_f$ changing the charge on the molecule by $\approx \pm e$.
+
+%Fig. \ref{fg:gated_charges_BDA} shows the (Hirshfeld) projected charges of the whole molecule, the amine and the molecule excluding the amine.
 
 \begin{figure}
 \includegraphics[width=.8\columnwidth]{img/gating-BDA-GGA-N}
-\caption{Partial charges for the three gated transport levels (the reference state and $\approx\pm e$ charged), showing the difference in charging the molecule, amine groups and molecule-without-amine as the gate field is varied.} \label{fg:gated_charges_BDA}
+\caption{Hirshfeld projected charges for the three gated transport levels (the reference state and $\approx\pm e$ charged states), showing the difference in charging the molecule, amine groups and molecule-without-amine as the gate field is varied.} \label{fg:gated_charges_BDA}
 \end{figure}
 
-From the orbitals in Fig.~\ref{fg:BDA-frag},  we construct Fig.~\ref{fg:BDA-peak-composition} where we show the compositions of the peaks in the transmission through the Au-BDA-Au junction near $\epsilon_{f}$. For these, we use a fragment-decomposition technique, in which we project the eigenstates of the transport calculation onto the orbitals of the Au-BDA-Au fragment \cite{Verzijl2012}. 
+Fig.~\ref{fg:BDA-peak-composition} shows the compositions of the peaks in the transmission through the Au-BDA-Au junction near $\epsilon_{f}$. For these, we project the eigenstates of the transport calculation onto the orbitals of the Au-BDA-Au fragment \cite{Verzijl2012}.
+
+%From the orbitals in Fig.~\ref{fg:BDA-frag},  we construct Fig.~\ref{fg:BDA-peak-composition} where we show the compositions of the peaks in the transmission through the Au-BDA-Au junction near $\epsilon_{f}$. For these, we use a fragment-decomposition technique, in which we project the eigenstates of the transport calculation onto the orbitals of the Au-BDA-Au fragment \cite{Verzijl2012}.
 
 %As expected, the HOMO-resonance corresponds to the HOMO orbital of the  Au-BDA-Au fragment orbital.
-The HOMO is distributed in a range of energy as a result of the hybridization with Au, in contrast to the LUMO, the LUMO$+1$ and the HOMO$-1$ states. The HOMO and LUMO$+1$ are more dominant in charge transport than the LUMO and HOMO$-1$ states which contribute weakly due to their strong localization at the center of the molecule. The interface states ${A}$ and ${B}$ do not show up as peaks in the transmission. We can explain this because these two orbitals have very low density at the center of the molecule as we can see in Fig. \ref{fg:BDA-frag-gapA} and Fig \ref{fg:BDA-frag-gapB}. This suggest that the transport through BDA is mainly due to the HOMO and LUMO+1. 
+The HOMO projection is distributed in many energies as a result of the hybridization with Au, in contrast to the LUMO, the LUMO$+1$ and the HOMO$-1$ states. The HOMO and LUMO$+1$ are more dominant in charge transport than the LUMO and HOMO$-1$ states which contribute weakly due to their strong localization at the center of the molecule. The interface states ${A}$ and ${B}$ do not show up as peaks in the transmission. We can explain this because these two orbitals have very low density at the center of the molecule as we can see in Fig. \ref{fg:BDA-frag-gapA} and Fig \ref{fg:BDA-frag-gapB}. %This suggest that the transport through BDA is mainly due to the HOMO and LUMO+1. 
 
 \begin{figure}
    \includegraphics[width=\columnwidth]{img/BDA/BDA-decomposition}
@@ -333,9 +341,10 @@ The HOMO is distributed in a range of energy as a result of the hybridization wi
 
 %Mowbray's model uses the molecule in gas phase for the calculation of the energy shifts. Additionally, they assume that in the reference state each atom of the molecule has zero charge. For the atomic charge differences with respect to the reference state of the unoccupied orbital they take the opposite of the atomic charge differences of the occupied orbitals.
 %Different from Mowbray's \etal calculations, in our model, we consider 
-For the molecule in the junction, %We take the reference state at zero bias and gate. 
-in the reference state, the molecule %in the junction 
-has already some extra charge due to partial charge transfer across the interface \cite{Thygesen2009} as can be seen in Fig.~\ref{fg:gated_charges_BDA}. The charge distributions for the reduced and the oxidized states are obtained by gating the levels near to $\epsilon_f$ changing the charge on the molecule by $\approx \pm e$. We consider each orbital separately, which is reflected in a marked difference between shifts for occupied and unoccupied orbitals.
+%For the molecule in the junction, %We take the reference state at zero bias and gate. 
+%in the reference state, the molecule %in the junction 
+%The charge distributions for the reduced and the oxidized states are obtained by gating the levels near to $\epsilon_f$ changing the charge on the molecule by $\approx \pm e$.
+For the Image charges calculation, we consider the reduced and the oxidized orbitals separately, which is reflected in a marked difference between shifts for occupied and unoccupied orbitals.
 
 \begin{figure}
 \subfloat[Geometry for Image-Charge Shifts]
@@ -351,7 +360,8 @@ has already some extra charge due to partial charge transfer across the interfac
 
 In Fig.~\ref{fg:shiftsgeomBDA} we show the geometry used for our image-charge model and in Fig.~\ref{fg:shiftscalcBDA} we show the resulting shifts of the occupied and unoccupied levels as function of the distance between the two contacts. The uncertainty bands are calculated based on a $\pm0.25\ \AA$ uncertainty in the position of the image planes.
 
-In Fig.~\ref{fg:gas_vs_junction_BDA}, we compare the results obtained by our method using different assumptions during the calculations. The dashed line is calculated using the gas phase charge distribution, zero charge on each atom for the reference state and omit the atomic charges associated with the EA, following the Mowbray \etal assumptions. This curve is in agreement with Mowbray's model. Once we include the effects due to the EA (purple line), the symmetry for the shifts of the occupied and unoccupied levels is not maintained. Furthermore, if we use the charge distribution of the neutral molecule as reference state (red line), those differences increase notably. Finally, using the junction charge distribution (green line), we see a clear difference. This shows that by using charges obtained with the junction geometry (from a NEGF+DFT calculation) for the image-charge calculation, we are including features that are absent when the gas phase charges are used.
+In Fig.~\ref{fg:gas_vs_junction_BDA}, we compare the results obtained by our method using different assumptions during the calculations. The dashed line is calculated using the gas phase charge distribution, zero charge on each atom for the reference state and omit the atomic charges associated with the EA, following the Mowbray \etal assumptions. %This curve is in agreement with Mowbray's model. 
+Once we include the effects due to the EA (purple line), the symmetry for the shifts of the occupied and unoccupied levels is not maintained. Furthermore, if we use the charge distribution of the neutral molecule as reference state (red line), those differences increase notably. Finally, using the junction charge distribution (green line), we see a clear difference. This shows that by using charges obtained with the junction geometry (from a NEGF+DFT calculation) for the image-charge calculation, we are including features that are absent when the gas phase charges are used.
 
 \begin{figure}
 \includegraphics[width=.8\columnwidth]{img/Methods/Us_vs_Mowbraygas_BDA-ref}

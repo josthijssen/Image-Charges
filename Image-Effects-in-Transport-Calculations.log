@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.4.11)  20 MAY 2015 16:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.4.11)  21 MAY 2015 11:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -655,21 +655,12 @@ Package pdftex.def Info: img.exp/Illustration/mirrorplanes.pdf used on input li
 ne 214.
 (pdftex.def)             Requested size: 246.0pt x 96.59467pt.
  [6 <./img.exp/Illustration/mirrorplanes.pdf>]
-Underfull \hbox (badness 1024) in paragraph at lines 271--272
-[]\OT1/txr/m/n/10 There is ev-i-dence that metal-molecule-metal junc-tions,
- []
-
-
-Underfull \hbox (badness 1303) in paragraph at lines 271--272
-\OT1/txr/m/n/10 formed by Au point con-tacts, ex-hibit re-pro-ducible con-
- []
-
 <img.exp/Fragment-geoms/BDA-fragment.png, id=552, 4015.0pt x 2284.535pt>
 File: img.exp/Fragment-geoms/BDA-fragment.png Graphic file (type png)
 
 <use img.exp/Fragment-geoms/BDA-fragment.png>
 Package pdftex.def Info: img.exp/Fragment-geoms/BDA-fragment.png used on input 
-line 282.
+line 284.
 (pdftex.def)             Requested size: 116.8515pt x 66.4764pt.
 
 <img.exp/Fragment-geoms/BDA-fragment-au.png, id=554, 4015.0pt x 2284.535pt>
@@ -677,14 +668,14 @@ File: img.exp/Fragment-geoms/BDA-fragment-au.png Graphic file (type png)
 
 <use img.exp/Fragment-geoms/BDA-fragment-au.png>
 Package pdftex.def Info: img.exp/Fragment-geoms/BDA-fragment-au.png used on inp
-ut line 283.
+ut line 285.
 (pdftex.def)             Requested size: 129.1485pt x 73.4831pt.
 
 <img.exp/BDA-binding1.png, id=555, 2288.55pt x 1045.9075pt>
 File: img.exp/BDA-binding1.png Graphic file (type png)
 
 <use img.exp/BDA-binding1.png>
-Package pdftex.def Info: img.exp/BDA-binding1.png used on input line 284.
+Package pdftex.def Info: img.exp/BDA-binding1.png used on input line 286.
 (pdftex.def)             Requested size: 209.1015pt x 95.54797pt.
 
 <img.exp/BDA-Levels/gas-phase/LUMO+1.png, id=556, 4015.0pt x 2188.175pt>
@@ -692,7 +683,7 @@ File: img.exp/BDA-Levels/gas-phase/LUMO+1.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/gas-phase/LUMO+1.png>
 Package pdftex.def Info: img.exp/BDA-Levels/gas-phase/LUMO+1.png used on input 
-line 289.
+line 291.
 (pdftex.def)             Requested size: 123.0pt x 67.01135pt.
 
 <img.exp/BDA-Levels/gas-phase/LUMO.png, id=557, 4015.0pt x 2091.815pt>
@@ -700,10 +691,10 @@ File: img.exp/BDA-Levels/gas-phase/LUMO.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/gas-phase/LUMO.png>
 Package pdftex.def Info: img.exp/BDA-Levels/gas-phase/LUMO.png used on input li
-ne 290.
+ne 292.
 (pdftex.def)             Requested size: 123.0pt x 64.0604pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 289--290
+Overfull \hbox (9.0pt too wide) in paragraph at lines 291--292
  [][][][] 
  []
 
@@ -712,7 +703,7 @@ File: img.exp/BDA-Levels/gas-phase/HOMO.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/gas-phase/HOMO.png>
 Package pdftex.def Info: img.exp/BDA-Levels/gas-phase/HOMO.png used on input li
-ne 291.
+ne 293.
 (pdftex.def)             Requested size: 123.0pt x 67.01135pt.
 
 <img.exp/BDA-Levels/gas-phase/HOMO-1.png, id=559, 4015.0pt x 2188.175pt>
@@ -720,10 +711,10 @@ File: img.exp/BDA-Levels/gas-phase/HOMO-1.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/gas-phase/HOMO-1.png>
 Package pdftex.def Info: img.exp/BDA-Levels/gas-phase/HOMO-1.png used on input 
-line 292.
+line 294.
 (pdftex.def)             Requested size: 123.0pt x 67.01135pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 291--293
+Overfull \hbox (9.0pt too wide) in paragraph at lines 293--295
  [][][][] 
  []
 
@@ -732,7 +723,7 @@ File: img.exp/BDA-Levels/fragment/LUMO+1.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/fragment/LUMO+1.png>
 Package pdftex.def Info: img.exp/BDA-Levels/fragment/LUMO+1.png used on input l
-ine 297.
+ine 299.
 (pdftex.def)             Requested size: 98.3985pt x 53.52405pt.
 
 <img.exp/BDA-Levels/fragment/LUMO.png, id=561, 1003.75pt x 546.04pt>
@@ -740,7 +731,7 @@ File: img.exp/BDA-Levels/fragment/LUMO.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/fragment/LUMO.png>
 Package pdftex.def Info: img.exp/BDA-Levels/fragment/LUMO.png used on input lin
-e 298.
+e 300.
 (pdftex.def)             Requested size: 98.3985pt x 53.52405pt.
 
 <img.exp/BDA-Levels/fragment/hybrid1.png, id=562, 1003.75pt x 546.04pt>
@@ -748,7 +739,7 @@ File: img.exp/BDA-Levels/fragment/hybrid1.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/fragment/hybrid1.png>
 Package pdftex.def Info: img.exp/BDA-Levels/fragment/hybrid1.png used on input 
-line 299.
+line 301.
 (pdftex.def)             Requested size: 98.3985pt x 53.52405pt.
 
 <img.exp/BDA-Levels/fragment/hybrid2.png, id=563, 1003.75pt x 546.04pt>
@@ -756,7 +747,7 @@ File: img.exp/BDA-Levels/fragment/hybrid2.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/fragment/hybrid2.png>
 Package pdftex.def Info: img.exp/BDA-Levels/fragment/hybrid2.png used on input 
-line 300.
+line 302.
 (pdftex.def)             Requested size: 98.3985pt x 53.52405pt.
 
 <img.exp/BDA-Levels/fragment/HOMO.png, id=564, 1003.75pt x 546.04pt>
@@ -764,7 +755,7 @@ File: img.exp/BDA-Levels/fragment/HOMO.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/fragment/HOMO.png>
 Package pdftex.def Info: img.exp/BDA-Levels/fragment/HOMO.png used on input lin
-e 301.
+e 303.
 (pdftex.def)             Requested size: 98.3985pt x 53.52405pt.
 
 <img.exp/BDA-Levels/fragment/HOMO-1.png, id=565, 1003.75pt x 546.04pt>
@@ -772,26 +763,18 @@ File: img.exp/BDA-Levels/fragment/HOMO-1.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/fragment/HOMO-1.png>
 Package pdftex.def Info: img.exp/BDA-Levels/fragment/HOMO-1.png used on input l
-ine 302.
+ine 304.
 (pdftex.def)             Requested size: 98.3985pt x 53.52405pt.
  [7]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 307.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 316.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 307.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 316.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-[8 <./img.exp/Fragment-geoms/BDA-fragment.png> <./img.exp/Fragment-geoms/BDA-fr
-agment-au.png> <./img.exp/BDA-binding1.png> <./img.exp/BDA-Levels/gas-phase/LUM
-O+1.png> <./img.exp/BDA-Levels/gas-phase/LUMO.png> <./img.exp/BDA-Levels/gas-ph
-ase/HOMO.png> <./img.exp/BDA-Levels/gas-phase/HOMO-1.png> <./img.exp/BDA-Levels
-/fragment/LUMO+1.png (PNG copy)> <./img.exp/BDA-Levels/fragment/LUMO.png (PNG c
-opy)> <./img.exp/BDA-Levels/fragment/hybrid1.png (PNG copy)> <./img.exp/BDA-Lev
-els/fragment/hybrid2.png (PNG copy)> <./img.exp/BDA-Levels/fragment/HOMO.png (P
-NG copy)> <./img.exp/BDA-Levels/fragment/HOMO-1.png (PNG copy)>]
 Package epstopdf Info: Source file: <img/gating-BDA-GGA-N.eps>
 (epstopdf)                    date: 2015-05-18 16:49:50
 (epstopdf)                    size: 64996 bytes
@@ -801,16 +784,32 @@ Package epstopdf Info: Source file: <img/gating-BDA-GGA-N.eps>
 (epstopdf)                    size: 21146 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/gating-BDA-GGA-N-eps-c
 onverted-to.pdf img/gating-BDA-GGA-N.eps>
-(epstopdf)             \includegraphics on input line 316.
+(epstopdf)             \includegraphics on input line 322.
 Package epstopdf Info: Output file is already uptodate.
-
-<img/gating-BDA-GGA-N-eps-converted-to.pdf, id=616, 633.36626pt x 475.7775pt>
+<img/gating-BDA-GGA-N-eps-converted-to.pdf, id=596, 633.36626pt x 475.7775pt>
 File: img/gating-BDA-GGA-N-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/gating-BDA-GGA-N-eps-converted-to.pdf>
 Package pdftex.def Info: img/gating-BDA-GGA-N-eps-converted-to.pdf used on inpu
-t line 316.
+t line 322.
 (pdftex.def)             Requested size: 196.80075pt x 147.8307pt.
+ [8 <./img.exp/Fragment-geoms/BDA-fragment.png> <./img.exp/Fragment-geoms/BDA-f
+ragment-au.png> <./img.exp/BDA-binding1.png> <./img.exp/BDA-Levels/gas-phase/LU
+MO+1.png> <./img.exp/BDA-Levels/gas-phase/LUMO.png> <./img.exp/BDA-Levels/gas-p
+hase/HOMO.png> <./img.exp/BDA-Levels/gas-phase/HOMO-1.png> <./img.exp/BDA-Level
+s/fragment/LUMO+1.png (PNG copy)> <./img.exp/BDA-Levels/fragment/LUMO.png (PNG 
+copy)> <./img.exp/BDA-Levels/fragment/hybrid1.png (PNG copy)> <./img.exp/BDA-Le
+vels/fragment/hybrid2.png (PNG copy)> <./img.exp/BDA-Levels/fragment/HOMO.png (
+PNG copy)> <./img.exp/BDA-Levels/fragment/HOMO-1.png (PNG copy)>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 327.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 327.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
 Package epstopdf Info: Source file: <img/BDA/BDA-decomposition.eps>
 (epstopdf)                    date: 2015-05-18 16:49:49
 (epstopdf)                    size: 39272 bytes
@@ -820,14 +819,14 @@ Package epstopdf Info: Source file: <img/BDA/BDA-decomposition.eps>
 (epstopdf)                    size: 10223 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/BDA/BDA-decomposition-
 eps-converted-to.pdf img/BDA/BDA-decomposition.eps>
-(epstopdf)             \includegraphics on input line 326.
+(epstopdf)             \includegraphics on input line 334.
 Package epstopdf Info: Output file is already uptodate.
 
-<img/BDA/BDA-decomposition-eps-converted-to.pdf, id=622, 546.04pt x 307.1475pt>
+<img/BDA/BDA-decomposition-eps-converted-to.pdf, id=624, 546.04pt x 307.1475pt>
 File: img/BDA/BDA-decomposition-eps-converted-to.pdf Graphic file (type pdf)
 <use img/BDA/BDA-decomposition-eps-converted-to.pdf>
 Package pdftex.def Info: img/BDA/BDA-decomposition-eps-converted-to.pdf used on
- input line 326.
+ input line 334.
 (pdftex.def)             Requested size: 246.0pt x 138.37444pt.
 Package epstopdf Info: Source file: <img.exp/contacts.eps>
 (epstopdf)                    date: 2015-05-18 16:49:49
@@ -837,7 +836,7 @@ Package epstopdf Info: Source file: <img.exp/contacts.eps>
 (epstopdf)                    size: 32182 bytes
 (epstopdf)             Command: <repstopdf --outfile=img.exp/contacts-eps-conve
 rted-to.pdf img.exp/contacts.eps>
-(epstopdf)             \includegraphics on input line 344.
+(epstopdf)             \includegraphics on input line 353.
 Package epstopdf Info: Output file is already uptodate.
 
 <img.exp/contacts-eps-converted-to.pdf, id=625, 321.2pt x 346.29375pt>
@@ -845,7 +844,7 @@ File: img.exp/contacts-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img.exp/contacts-eps-converted-to.pdf>
 Package pdftex.def Info: img.exp/contacts-eps-converted-to.pdf used on input li
-ne 344.
+ne 353.
 (pdftex.def)             Requested size: 110.69925pt x 119.34465pt.
 Package epstopdf Info: Source file: <img/SingleGapPlotBDA.eps>
 (epstopdf)                    date: 2015-05-18 16:49:49
@@ -856,7 +855,7 @@ Package epstopdf Info: Source file: <img/SingleGapPlotBDA.eps>
 (epstopdf)                    size: 8926 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/SingleGapPlotBDA-eps-c
 onverted-to.pdf img/SingleGapPlotBDA.eps>
-(epstopdf)             \includegraphics on input line 347.
+(epstopdf)             \includegraphics on input line 356.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/SingleGapPlotBDA-eps-converted-to.pdf, id=626, 318.18875pt x 332.24126pt>
@@ -864,27 +863,19 @@ File: img/SingleGapPlotBDA-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/SingleGapPlotBDA-eps-converted-to.pdf>
 Package pdftex.def Info: img/SingleGapPlotBDA-eps-converted-to.pdf used on inpu
-t line 347.
+t line 356.
 (pdftex.def)             Requested size: 135.30075pt x 141.27417pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 344--348
+Overfull \hbox (9.0pt too wide) in paragraph at lines 353--357
  [][][][] 
  []
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 352.
+LaTeX Warning: Command \r invalid in math mode on input line 361.
 
 [9 <./img/gating-BDA-GGA-N-eps-converted-to.pdf> <./img/BDA/BDA-decomposition-e
-ps-converted-to.pdf>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 353.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 353.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
+ps-converted-to.pdf> <./img.exp/contacts-eps-converted-to.pdf> <./img/SingleGap
+PlotBDA-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <img/Methods/Us_vs_Mowbraygas_BDA-ref.eps>
 (epstopdf)                    date: 2015-05-18 16:49:49
 (epstopdf)                    size: 25840 bytes
@@ -894,34 +885,33 @@ onverted-to.pdf>
 (epstopdf)                    size: 10566 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/Methods/Us_vs_Mowbrayg
 as_BDA-ref-eps-converted-to.pdf img/Methods/Us_vs_Mowbraygas_BDA-ref.eps>
-(epstopdf)             \includegraphics on input line 357.
+(epstopdf)             \includegraphics on input line 367.
 Package epstopdf Info: Output file is already uptodate.
 
-<img/Methods/Us_vs_Mowbraygas_BDA-ref-eps-converted-to.pdf, id=658, 318.18875pt
+<img/Methods/Us_vs_Mowbraygas_BDA-ref-eps-converted-to.pdf, id=665, 318.18875pt
  x 332.24126pt>
 File: img/Methods/Us_vs_Mowbraygas_BDA-ref-eps-converted-to.pdf Graphic file (t
 ype pdf)
 
 <use img/Methods/Us_vs_Mowbraygas_BDA-ref-eps-converted-to.pdf>
 Package pdftex.def Info: img/Methods/Us_vs_Mowbraygas_BDA-ref-eps-converted-to.
-pdf used on input line 357.
+pdf used on input line 367.
 (pdftex.def)             Requested size: 196.80075pt x 205.49062pt.
 
-Underfull \hbox (badness 7685) in paragraph at lines 371--375
+Underfull \hbox (badness 7685) in paragraph at lines 381--385
 \OT1/txr/m/n/10 who stud-ied thiol-terminated zinc-porphyrin molecules
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 371--375
+Underfull \hbox (badness 2042) in paragraph at lines 381--385
 \OT1/txr/m/n/10 [Zn(5,15-di(p-thiolphenyl)-10,20-di(p-tolyl)porphyrin)], ab-
  []
 
-[10 <./img.exp/contacts-eps-converted-to.pdf> <./img/SingleGapPlotBDA-eps-conve
-rted-to.pdf> <./img/Methods/Us_vs_Mowbraygas_BDA-ref-eps-converted-to.pdf>]
+[10 <./img/Methods/Us_vs_Mowbraygas_BDA-ref-eps-converted-to.pdf>]
 <img/Fig3TH.png, id=688, 475.5366pt x 371.4678pt>
 File: img/Fig3TH.png Graphic file (type png)
  <use img/Fig3TH.png>
-Package pdftex.def Info: img/Fig3TH.png used on input line 384.
+Package pdftex.def Info: img/Fig3TH.png used on input line 394.
 (pdftex.def)             Requested size: 221.3985pt x 172.94612pt.
 
 <img.exp/ZnTPP-Levels/fragment/LUMO+1.png, id=691, 676.5275pt x 544.0325pt>
@@ -929,7 +919,7 @@ File: img.exp/ZnTPP-Levels/fragment/LUMO+1.png Graphic file (type png)
 
 <use img.exp/ZnTPP-Levels/fragment/LUMO+1.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/fragment/LUMO+1.png used on input
- line 426.
+ line 436.
 (pdftex.def)             Requested size: 86.1015pt x 69.23247pt.
 
 <img.exp/ZnTPP-Levels/fragment/LUMO.png, id=692, 676.5275pt x 526.96875pt>
@@ -937,7 +927,7 @@ File: img.exp/ZnTPP-Levels/fragment/LUMO.png Graphic file (type png)
 
 <use img.exp/ZnTPP-Levels/fragment/LUMO.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/fragment/LUMO.png used on input l
-ine 427.
+ine 437.
 (pdftex.def)             Requested size: 86.1015pt x 67.06097pt.
 
 <img.exp/ZnTPP-Levels/fragment/gap1C.png, id=693, 734.745pt x 534.99875pt>
@@ -945,7 +935,7 @@ File: img.exp/ZnTPP-Levels/fragment/gap1C.png Graphic file (type png)
 
 <use img.exp/ZnTPP-Levels/fragment/gap1C.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/fragment/gap1C.png used on input 
-line 428.
+line 438.
 (pdftex.def)             Requested size: 86.1015pt x 62.68684pt.
 
 <img.exp/ZnTPP-Levels/fragment/gap2A.png, id=694, 693.59125pt x 534.99875pt>
@@ -953,7 +943,7 @@ File: img.exp/ZnTPP-Levels/fragment/gap2A.png Graphic file (type png)
 
 <use img.exp/ZnTPP-Levels/fragment/gap2A.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/fragment/gap2A.png used on input 
-line 429.
+line 439.
 (pdftex.def)             Requested size: 86.1015pt x 66.40936pt.
 
 <img.exp/ZnTPP-Levels/fragment/HOMO.png, id=695, 675.52374pt x 545.03625pt>
@@ -961,7 +951,7 @@ File: img.exp/ZnTPP-Levels/fragment/HOMO.png Graphic file (type png)
 
 <use img.exp/ZnTPP-Levels/fragment/HOMO.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/fragment/HOMO.png used on input l
-ine 430.
+ine 440.
 (pdftex.def)             Requested size: 86.1015pt x 69.46832pt.
 
 <img.exp/ZnTPP-Levels/fragment/fragment-HOMO-1.png, id=696, 1103.12125pt x 851.
@@ -970,7 +960,7 @@ File: img.exp/ZnTPP-Levels/fragment/fragment-HOMO-1.png Graphic file (type png)
 
  <use img.exp/ZnTPP-Levels/fragment/fragment-HOMO-1.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/fragment/fragment-HOMO-1.png used
- on input line 431.
+ on input line 441.
 (pdftex.def)             Requested size: 86.1015pt x 66.43332pt.
 
 <img.exp/ZnTPP-Levels/fragment/fragment-HOMO-2.png, id=697, 1118.1775pt x 859.2
@@ -979,199 +969,177 @@ File: img.exp/ZnTPP-Levels/fragment/fragment-HOMO-2.png Graphic file (type png)
 
  <use img.exp/ZnTPP-Levels/fragment/fragment-HOMO-2.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/fragment/fragment-HOMO-2.png used
- on input line 432.
+ on input line 442.
 (pdftex.def)             Requested size: 86.1015pt x 66.15544pt.
- [11 <./img/Fig3TH.png>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 461.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 461.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 463--464
+ [11 <./img/Fig3TH.png> <./img.exp/ZnTPP-Levels/fragment/LUMO+1.png> <./img.exp
+/ZnTPP-Levels/fragment/LUMO.png> <./img.exp/ZnTPP-Levels/fragment/gap1C.png> <.
+/img.exp/ZnTPP-Levels/fragment/gap2A.png> <./img.exp/ZnTPP-Levels/fragment/HOMO
+.png> <./img.exp/ZnTPP-Levels/fragment/fragment-HOMO-1.png> <./img.exp/ZnTPP-Le
+vels/fragment/fragment-HOMO-2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
 
  []
 
-<img/ZnTPPdT/ZnTPP_peaks.pdf, id=716, 968.61874pt x 581.17125pt>
+<img/ZnTPPdT/ZnTPP_peaks.pdf, id=722, 968.61874pt x 581.17125pt>
 File: img/ZnTPPdT/ZnTPP_peaks.pdf Graphic file (type pdf)
 
 <use img/ZnTPPdT/ZnTPP_peaks.pdf>
-Package pdftex.def Info: img/ZnTPPdT/ZnTPP_peaks.pdf used on input line 468.
+Package pdftex.def Info: img/ZnTPPdT/ZnTPP_peaks.pdf used on input line 478.
 (pdftex.def)             Requested size: 246.0pt x 147.59811pt.
 
-Overfull \hbox (4.5pt too wide) in paragraph at lines 468--468
+Overfull \hbox (4.5pt too wide) in paragraph at lines 478--478
  [][] 
  []
 
-<img/ZnTPPdT/ZnTPP_peaks2.pdf, id=717, 968.61874pt x 581.17125pt>
+<img/ZnTPPdT/ZnTPP_peaks2.pdf, id=723, 968.61874pt x 581.17125pt>
 File: img/ZnTPPdT/ZnTPP_peaks2.pdf Graphic file (type pdf)
 
 <use img/ZnTPPdT/ZnTPP_peaks2.pdf>
-Package pdftex.def Info: img/ZnTPPdT/ZnTPP_peaks2.pdf used on input line 471.
+Package pdftex.def Info: img/ZnTPPdT/ZnTPP_peaks2.pdf used on input line 481.
 (pdftex.def)             Requested size: 246.0pt x 147.59811pt.
 
-Overfull \hbox (4.5pt too wide) in paragraph at lines 471--472
+Overfull \hbox (4.5pt too wide) in paragraph at lines 481--482
  [][] 
  []
 
-<img/gating.pdf, id=718, 722.7pt x 505.89pt>
+<img/gating.pdf, id=724, 722.7pt x 505.89pt>
 File: img/gating.pdf Graphic file (type pdf)
  <use img/gating.pdf>
-Package pdftex.def Info: img/gating.pdf used on input line 493.
+Package pdftex.def Info: img/gating.pdf used on input line 503.
 (pdftex.def)             Requested size: 221.3985pt x 154.97937pt.
+ [12 <./img/ZnTPPdT/ZnTPP_peaks.pdf> <./img/ZnTPPdT/ZnTPP_peaks2.pdf>]
 
-<img.exp/gas_charge.png, id=725, 842.14626pt x 839.135pt>
+LaTeX Warning: A float is stuck (cannot be placed) on input line 529.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 529.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+<img.exp/gas_charge.png, id=755, 842.14626pt x 839.135pt>
 File: img.exp/gas_charge.png Graphic file (type png)
 
 <use img.exp/gas_charge.png>
-Package pdftex.def Info: img.exp/gas_charge.png used on input line 524.
+Package pdftex.def Info: img.exp/gas_charge.png used on input line 534.
 (pdftex.def)             Requested size: 184.5pt x 183.82921pt.
 
-<img.exp/gate_charge.png, id=726, 2433.09pt x 1178.4025pt>
+<img.exp/gate_charge.png, id=756, 2433.09pt x 1178.4025pt>
 File: img.exp/gate_charge.png Graphic file (type png)
 
 <use img.exp/gate_charge.png>
-Package pdftex.def Info: img.exp/gate_charge.png used on input line 525.
+Package pdftex.def Info: img.exp/gate_charge.png used on input line 535.
 (pdftex.def)             Requested size: 246.0pt x 119.14177pt.
 
-<img.exp/Simplified-Images.png, id=729, 721.69624pt x 475.7775pt>
+<img.exp/Simplified-Images.png, id=759, 721.69624pt x 475.7775pt>
 File: img.exp/Simplified-Images.png Graphic file (type png)
 
 <use img.exp/Simplified-Images.png>
-Package pdftex.def Info: img.exp/Simplified-Images.png used on input line 542.
+Package pdftex.def Info: img.exp/Simplified-Images.png used on input line 552.
 (pdftex.def)             Requested size: 221.3985pt x 145.95767pt.
 
-<img/SingleGapPlot3_eV.png, id=730, 648.4225pt x 570.13pt>
+<img/SingleGapPlot3_eV.png, id=760, 648.4225pt x 570.13pt>
 File: img/SingleGapPlot3_eV.png Graphic file (type png)
 
 <use img/SingleGapPlot3_eV.png>
-Package pdftex.def Info: img/SingleGapPlot3_eV.png used on input line 545.
+Package pdftex.def Info: img/SingleGapPlot3_eV.png used on input line 555.
 (pdftex.def)             Requested size: 196.80075pt x 173.0412pt.
- [12 <./img.exp/ZnTPP-Levels/fragment/LUMO+1.png> <./img.exp/ZnTPP-Levels/fragm
-ent/LUMO.png> <./img.exp/ZnTPP-Levels/fragment/gap1C.png> <./img.exp/ZnTPP-Leve
-ls/fragment/gap2A.png> <./img.exp/ZnTPP-Levels/fragment/HOMO.png> <./img.exp/Zn
-TPP-Levels/fragment/fragment-HOMO-1.png> <./img.exp/ZnTPP-Levels/fragment/fragm
-ent-HOMO-2.png>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 550.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 550.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-[13 <./img/ZnTPPdT/ZnTPP_peaks.pdf> <./img/ZnTPPdT/ZnTPP_peaks2.pdf> <./img/gat
-ing.pdf, page is rotated 90 degrees>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 576.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 576.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-
-Underfull \hbox (badness 2735) in paragraph at lines 587--589
+ [13 <./img/gating.pdf, page is rotated 90 degrees> <./img.exp/gas_charge.png> 
+<./img.exp/gate_charge.png>] [14 <./img.exp/Simplified-Images.png> <./img/Singl
+eGapPlot3_eV.png>]
+Underfull \hbox (badness 2735) in paragraph at lines 597--599
 []\OT1/txr/m/n/10 Perrin \OT1/txr/m/it/10 et al.\OT1/txr/m/n/10 's$[]$ ex-per-i
 -ments on Au-ZnTPPdT re-veal
  []
 
-[14 <./img.exp/gas_charge.png> <./img.exp/gate_charge.png>]
-(./Image-Effects-in-Transport-Calculations.bbl [15 <./img.exp/Simplified-Images
-.png> <./img/SingleGapPlot3_eV.png>]
+(./Image-Effects-in-Transport-Calculations.bbl [15]
 Missing character: There is no Ã in font txr!
 Missing character: There is no ¶ in font txr!
 Missing character: There is no Ã in font txr!
 Missing character: There is no ¶ in font txr!
  [16]) [17]
-<img.exp/BDA-Levels/gates.png, id=908, 473.77pt x 376.607pt>
+<img.exp/BDA-Levels/gates.png, id=906, 473.77pt x 376.607pt>
 File: img.exp/BDA-Levels/gates.png Graphic file (type png)
 
 <use img.exp/BDA-Levels/gates.png>
-Package pdftex.def Info: img.exp/BDA-Levels/gates.png used on input line 627.
+Package pdftex.def Info: img.exp/BDA-Levels/gates.png used on input line 637.
 (pdftex.def)             Requested size: 209.1015pt x 166.21902pt.
 
-<img/Us_vs_Mowbraygas_BDA-molecule-gates-LDA.pdf, id=910, 318.18875pt x 332.241
+<img/Us_vs_Mowbraygas_BDA-molecule-gates-LDA.pdf, id=908, 318.18875pt x 332.241
 26pt>
 File: img/Us_vs_Mowbraygas_BDA-molecule-gates-LDA.pdf Graphic file (type pdf)
  <use img/Us_vs_Mowbraygas_BDA-molecule-gates-LDA.pdf>
 Package pdftex.def Info: img/Us_vs_Mowbraygas_BDA-molecule-gates-LDA.pdf used o
-n input line 634.
+n input line 644.
 (pdftex.def)             Requested size: 123.0pt x 128.42783pt.
 
-<img/Us_vs_Mowbraygas_BDA-molecule-gates-GGA.pdf, id=911, 318.18875pt x 332.241
+<img/Us_vs_Mowbraygas_BDA-molecule-gates-GGA.pdf, id=909, 318.18875pt x 332.241
 26pt>
 File: img/Us_vs_Mowbraygas_BDA-molecule-gates-GGA.pdf Graphic file (type pdf)
  <use img/Us_vs_Mowbraygas_BDA-molecule-gates-GGA.pdf>
 Package pdftex.def Info: img/Us_vs_Mowbraygas_BDA-molecule-gates-GGA.pdf used o
-n input line 635.
+n input line 645.
 (pdftex.def)             Requested size: 123.0pt x 128.42783pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 634--635
+Overfull \hbox (9.0pt too wide) in paragraph at lines 644--645
  [][][][] 
  []
 
 [18 <./img.exp/BDA-Levels/gates.png> <./img/Us_vs_Mowbraygas_BDA-molecule-gates
 -LDA.pdf> <./img/Us_vs_Mowbraygas_BDA-molecule-gates-GGA.pdf>]
-<img/gating-BDA-LDA-N.png, id=940, 663.278pt x 468.952pt>
+<img/gating-BDA-LDA-N.png, id=938, 663.278pt x 468.952pt>
 File: img/gating-BDA-LDA-N.png Graphic file (type png)
 
 <use img/gating-BDA-LDA-N.png>
-Package pdftex.def Info: img/gating-BDA-LDA-N.png used on input line 643.
+Package pdftex.def Info: img/gating-BDA-LDA-N.png used on input line 653.
 (pdftex.def)             Requested size: 123.0pt x 86.96227pt.
 
-<img.exp/Fragment-geoms/nums-molecule.png, id=941, 597.432pt x 844.756pt>
+<img.exp/Fragment-geoms/nums-molecule.png, id=939, 597.432pt x 844.756pt>
 File: img.exp/Fragment-geoms/nums-molecule.png Graphic file (type png)
 
 <use img.exp/Fragment-geoms/nums-molecule.png>
 Package pdftex.def Info: img.exp/Fragment-geoms/nums-molecule.png used on input
- line 649.
+ line 659.
 (pdftex.def)             Requested size: 123.0pt x 173.91083pt.
 
-<img.exp/ZnTPP-Levels/gas-phase/LUMO+1.png, id=945, 575.14874pt x 587.19376pt>
+<img.exp/ZnTPP-Levels/gas-phase/LUMO+1.png, id=943, 575.14874pt x 587.19376pt>
 File: img.exp/ZnTPP-Levels/gas-phase/LUMO+1.png Graphic file (type png)
 
 <use img.exp/ZnTPP-Levels/gas-phase/LUMO+1.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/gas-phase/LUMO+1.png used on inpu
-t line 682.
+t line 692.
 (pdftex.def)             Requested size: 86.1015pt x 87.90501pt.
 
-<img.exp/ZnTPP-Levels/gas-phase/LUMO.png, id=946, 578.16pt x 596.2275pt>
+<img.exp/ZnTPP-Levels/gas-phase/LUMO.png, id=944, 578.16pt x 596.2275pt>
 File: img.exp/ZnTPP-Levels/gas-phase/LUMO.png Graphic file (type png)
 
 <use img.exp/ZnTPP-Levels/gas-phase/LUMO.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/gas-phase/LUMO.png used on input 
-line 683.
+line 693.
 (pdftex.def)             Requested size: 86.1015pt x 88.78432pt.
 
-<img.exp/ZnTPP-Levels/gas-phase/HOMO.png, id=947, 587.19376pt x 582.175pt>
+<img.exp/ZnTPP-Levels/gas-phase/HOMO.png, id=945, 587.19376pt x 582.175pt>
 File: img.exp/ZnTPP-Levels/gas-phase/HOMO.png Graphic file (type png)
 
 <use img.exp/ZnTPP-Levels/gas-phase/HOMO.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/gas-phase/HOMO.png used on input 
-line 684.
+line 694.
 (pdftex.def)             Requested size: 86.1015pt x 85.35927pt.
 
-<img.exp/ZnTPP-Levels/gas-phase/HOMO-1.png, id=948, 979.66pt x 973.6375pt>
+<img.exp/ZnTPP-Levels/gas-phase/HOMO-1.png, id=946, 979.66pt x 973.6375pt>
 File: img.exp/ZnTPP-Levels/gas-phase/HOMO-1.png Graphic file (type png)
 
 <use img.exp/ZnTPP-Levels/gas-phase/HOMO-1.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/gas-phase/HOMO-1.png used on inpu
-t line 685.
+t line 695.
 (pdftex.def)             Requested size: 86.1015pt x 85.55853pt.
 
-<img.exp/ZnTPP-Levels/gas-phase/HOMO-2.png, id=949, 1011.78pt x 965.6075pt>
+<img.exp/ZnTPP-Levels/gas-phase/HOMO-2.png, id=947, 1011.78pt x 965.6075pt>
 File: img.exp/ZnTPP-Levels/gas-phase/HOMO-2.png Graphic file (type png)
 
 <use img.exp/ZnTPP-Levels/gas-phase/HOMO-2.png>
 Package pdftex.def Info: img.exp/ZnTPP-Levels/gas-phase/HOMO-2.png used on inpu
-t line 686.
+t line 696.
 (pdftex.def)             Requested size: 86.1015pt x 82.17131pt.
 
 
@@ -1182,23 +1150,23 @@ Use acknowledgments instead.
 ng>] [21 <./img.exp/ZnTPP-Levels/gas-phase/LUMO+1.png> <./img.exp/ZnTPP-Levels/
 gas-phase/LUMO.png> <./img.exp/ZnTPP-Levels/gas-phase/HOMO.png> <./img.exp/ZnTP
 P-Levels/gas-phase/HOMO-1.png> <./img.exp/ZnTPP-Levels/gas-phase/HOMO-2.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 695.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 705.
 
 (./Image-Effects-in-Transport-Calculations.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 695.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 695.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 705.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 705.
 Package rerunfilecheck Info: File `Image-Effects-in-Transport-Calculations.out'
  has not changed.
 (rerunfilecheck)             Checksum: 85961ED2B703FCEE453EA1456D02D215;1193.
  ) 
 Here is how much of TeX's memory you used:
- 9850 strings out of 493488
- 147224 string characters out of 3141326
- 252498 words of memory out of 3000000
- 12772 multiletter control sequences out of 15000+200000
+ 9849 strings out of 493488
+ 147213 string characters out of 3141326
+ 252514 words of memory out of 3000000
+ 12771 multiletter control sequences out of 15000+200000
  58075 words of font info for 137 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,10n,46p,1050b,653s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,10n,46p,985b,677s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive
@@ -1209,11 +1177,11 @@ s/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1
 /urw/helvetic/uhvr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/ti
 mes/utmb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmr8a
 .pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Image-Effects-in-Transport-Calculations.pdf (21 pages, 969694
-0 bytes).
+Output written on Image-Effects-in-Transport-Calculations.pdf (21 pages, 969610
+9 bytes).
 PDF statistics:
- 1044 PDF objects out of 1200 (max. 8388607)
- 801 compressed objects within 9 object streams
+ 1041 PDF objects out of 1200 (max. 8388607)
+ 799 compressed objects within 8 object streams
  163 named destinations out of 1000 (max. 500000)
  372 words of extra memory for PDF output out of 10000 (max. 10000000)
 
